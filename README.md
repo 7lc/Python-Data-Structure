@@ -1,6 +1,6 @@
 # Python-Data-Structure
-<p>Using Python3 to implement Data Structures.</p>
+<p><li>Using Python3 to implement Data Structures.</li></p>
 
-<p>Some of the testing case is no longer valid.</p>
+<p><li>Some of the testing cases are no longer valid.</li></p>
 
-<p>However, the implementation of the Data Structure is still very useful and all the code work properly.</p>
+<p><li>However, the implementation of the Data Structure is still very useful and all the code work properly.</li></p>
